@@ -113,6 +113,14 @@ Advantages of Type Casting:
 2.Prevents data type mismatch.
 3.Improves data accuracy.
 
+input image:
+<img width="1225" height="875" alt="image" src="https://github.com/user-attachments/assets/c313e414-0a69-48aa-aa6a-5eea0b74d9e7" />
+
+output image:
+<img width="897" height="530" alt="image" src="https://github.com/user-attachments/assets/80df4b09-79e8-40ea-8c72-5e47b19d1707" />
+
+
+
 5. Operators Used
 Arithmetic Operator (-)
 
@@ -172,3 +180,8 @@ Retrieve the current year.
 Calculate the approximate birth year.
 Display the final result.
 Terminate the program with a thank-you message.
+
+video link:
+https://drive.google.com/file/d/137T1YdCOZ2Ze-bQxdtijMQWM7bVljtyI/view?usp=drive_link
+
+
